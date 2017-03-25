@@ -25,7 +25,7 @@ SECRET_KEY = 'a$-54+tm3fdeeg@k^laph5s98)ees2b-0+%3o8k#m7c!go(y*c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['anabegandolfi.pythonanywhere.com']
 
 
 # Application definition
